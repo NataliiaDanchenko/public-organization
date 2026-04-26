@@ -1,0 +1,23 @@
+.section {
+  width: min(1120px, 92vw);
+  margin: 0 auto;
+  padding: 5.4rem 0;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  color: #9f9f9f;
+  margin-bottom: 0.6rem;
+}
+
+.header h2 {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 3vw, 3.3rem);
+  font-weight: 500;
+}
