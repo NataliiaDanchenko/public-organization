@@ -1,0 +1,18 @@
+.pageTitle {
+  font-family: var(--font-serif);
+  font-size: clamp(2.1rem, 5vw, 3.8rem);
+  font-weight: 500;
+  margin-bottom: 1.4rem;
+}
+
+.contactGrid {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 2rem;
+}
+
+.storyText {
+  line-height: 1.9;
+  color: #cecece;
+}
+

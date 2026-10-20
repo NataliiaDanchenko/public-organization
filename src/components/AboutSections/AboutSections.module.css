@@ -1,0 +1,9 @@
+.storyText {
+  line-height: 1.9;
+  color: #cecece;
+}
+
+.imageFrame {
+  position: relative;
+  min-height: 380px;
+}

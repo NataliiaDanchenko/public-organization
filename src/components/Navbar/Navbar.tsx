@@ -7,9 +7,9 @@ import styles from "./Navbar.module.css";
 const navItems = [
   { href: "/", label: "Home" },
   { href: "/about-us", label: "About" },
-  { href: "/discography", label: "Discography" },
+  { href: "/projects", label: "Projects" },
   { href: "/events", label: "Events" },
-  { href: "/programs", label: "Programs" },
+  { href: "/press", label: "Press" },
   { href: "/contact", label: "Contact" },
 ];
 

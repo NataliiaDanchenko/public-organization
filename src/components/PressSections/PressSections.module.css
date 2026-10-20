@@ -1,0 +1,6 @@
+.pageTitle {
+  font-family: var(--font-serif);
+  font-size: clamp(2.1rem, 5vw, 3.8rem);
+  font-weight: 500;
+  margin-bottom: 1.4rem;
+}
