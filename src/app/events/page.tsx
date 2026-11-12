@@ -28,7 +28,6 @@ export default function EventsPage() {
                             '@context': 'https://schema.org',
                             '@type': 'Event',
                             name: event.title,
-                            startDate: event.isoDate,
                             eventStatus:
                                 'https://schema.org/EventScheduled',
                             location: {
