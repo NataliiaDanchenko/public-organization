@@ -81,8 +81,8 @@ import poster1_spring_2020 from '@/assets/spring_2020/posters/spring_2020_poster
 import poster1_spring_2021 from '@/assets/spring_2021/posters/poster_1.jpg'
 
 import photo1_spring_2021 from '@/assets/spring_2021/photos/Photo_1.jpg'
-import photo2_spring_2021 from '@/assets/spring_20210/photos/Photo_2.jpg'
-import photo3_spring_2021 from '@/assets/spring_20210/photos/Photo_3.jpg'
+import photo2_spring_2021 from '@/assets/spring_2021/photos/Photo_2.jpg'
+import photo3_spring_2021 from '@/assets/spring_2021/photos/Photo_3.jpg'
 import photo4_spring_2021 from '@/assets/spring_2021/photos/Photo_4.jpg'
 import photo5_spring_2021 from '@/assets/spring_2021/photos/Photo_5.jpg'
 import photo6_spring_2021 from '@/assets/spring_2021/photos/Photo_6.jpg'
