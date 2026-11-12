@@ -3,15 +3,11 @@ import { createMetadata } from "@/lib/seo";
 
 export const metadata = createMetadata({
   title: "Projects | Public Organization",
-  description:
-    "Browse albums and releases by Public Organization, from ambient essays to electro-acoustic narratives.",
+  description: "Our projects and releases.",
   path: "/projects",
-  keywords: ["projects", "albums", "sound releases", "music portfolio"],
+  keywords: ["projects", "releases"],
 });
 
-
 export default function ProjectsPage() {
-  return (
-    <ProjectsSections/>
-  );
+  return <ProjectsSections />;
 }

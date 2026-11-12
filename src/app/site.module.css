@@ -6,7 +6,7 @@
 }
 
 .muted {
-  color: #9d9d9d;
+  color: #e2c5dd;
 }
 
 .form {
@@ -21,9 +21,9 @@
 
 .form input,
 .form textarea {
-  border: 1px solid #353535;
-  background: #141414;
-  color: #f4f2ee;
+  border: 1px solid rgb(255 255 255 / 35%);
+  background: rgb(100, 35, 91);
+  color: #fff;
   padding: 0.72rem 0.8rem;
   font: inherit;
 }
@@ -36,16 +36,16 @@
 .form button {
   width: fit-content;
   padding: 0.7rem 1.2rem;
-  border: 1px solid #f4f2ee;
+  border: 1px solid #fff;
   background: transparent;
-  color: #f4f2ee;
+  color: #fff;
   transition: all 260ms ease;
 }
 
 .form button:hover,
 .form button:focus-visible {
-  background: #f4f2ee;
-  color: #111;
+  background: #fff;
+  color: rgb(100, 35, 91);
 }
 
 @media (max-width: 860px) {

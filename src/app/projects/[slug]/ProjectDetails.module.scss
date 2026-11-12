@@ -1,0 +1,40 @@
+.page {
+  padding: 80px 0;
+}
+
+.container {
+  width: min(850px, calc(100% - 40px));
+  margin: 0 auto;
+}
+
+.year {
+  margin-bottom: 16px;
+  font-size: 14px;
+  color: #c9a9c3;
+}
+
+.title {
+  margin-bottom: 40px;
+  font-size: clamp(32px, 5vw, 56px);
+  line-height: 1.15;
+  color: rgb(188, 89, 171);
+}
+
+.imageWrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+
+  img {
+    object-fit: cover;
+  }
+}
+
+.content {
+  max-width: 850px;
+  margin-top: 40px;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #f5e8f2;
+}

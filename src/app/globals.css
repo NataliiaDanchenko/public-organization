@@ -18,8 +18,8 @@ body {
 }
 
 body {
-  background: #0f0f0f;
-  color: #f4f2ee;
+  background: rgb(188, 89, 171);
+  color: #ffff;
   font-family: var(--font-sans), Arial, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;

@@ -12,7 +12,7 @@
   text-transform: uppercase;
   letter-spacing: 0.14em;
   font-size: 0.72rem;
-  color: #9f9f9f;
+  color: #f0d8ec;
   margin-bottom: 0.6rem;
 }
 
@@ -20,4 +20,5 @@
   font-family: var(--font-serif);
   font-size: clamp(2rem, 3vw, 3.3rem);
   font-weight: 500;
+  color: rgb(188, 89, 171);
 }

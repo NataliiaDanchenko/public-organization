@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import styles from "./Navbar.module.css";
+import Image from "next/image";
+import Logo from "@/assets/Logo.jpg";
 
 const navItems = [
   { href: "/", label: "Home" },
@@ -29,7 +31,13 @@ export function Navbar() {
     <header className={styles.header}>
       <div className={styles.inner}>
         <Link href="/" className={styles.brand} aria-label="Go to homepage">
-          Public Organization
+          <Image
+            src={Logo}
+            alt="Public Organization"
+            width={70}
+            height={70}
+            priority
+          />
         </Link>
 
         <button
