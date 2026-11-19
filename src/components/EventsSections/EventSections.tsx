@@ -10,7 +10,7 @@ export function EventSections() {
 
             <div className={styles.verticalList}>
                 {events.map((event) => (
-                    <div key={event.title} className={styles.eventItem}>
+                    <div key={event.slug} className={styles.eventItem}>
                         <EventCard {...event} />
                     </div>
                 ))}

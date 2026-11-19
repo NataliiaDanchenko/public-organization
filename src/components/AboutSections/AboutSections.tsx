@@ -6,19 +6,18 @@ export default function AboutUsPage() {
         <>
             <article className={styles.storyText}>
                 <h1>
-                    We build emotionally precise environments through sound and visual form.
+                    CRESCENDO ART FORUM
                 </h1>
 
                 <p>
-                    Founded as an interdisciplinary collective, Public Organization
-                    investigates how architecture, performance and music can share a
-                    common narrative language.
+                    Простір, де мистецтво стає приводом для дослідження, діалогу та співтворення.
                 </p>
 
                 <p>
-                    Our work values restraint over spectacle: fewer elements, deeper
-                    intention, stronger memory.
+                    Ми об’єднуємо учнів мистецьких шкіл і ліцеїв, викладачів, митців і експертів навколо спільного питання: як говорити про мистецтво глибоко, чесно і цікаво. У центрі проєкту — розвиток дослідницького мислення, культури публічного виступу та безбар’єрного освітнього середовища.
                 </p>
+                <p>Від учнівських конференцій і менторських шкіл до зустрічей з митцями та інклюзивних мистецьких подій — CRESCENDO ART FORUM створює умови, у яких кожен може бути почутим.
+</p>
             </article>
 
             <div className={styles.imageFrame}>

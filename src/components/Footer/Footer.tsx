@@ -4,8 +4,8 @@ export function Footer() {
   return (
     <footer className={styles.footer}>
       <div className={styles.inner}>
-        <p>Public Organization</p>
-        <p>Curated art, sound and spatial performances.</p>
+        <p>CRESCENDO ART FORUM</p>
+        <p>Безбар’єрний мистецько-освітній проєкт для учнів, викладачів і мистецької спільноти</p>
       </div>
     </footer>
   );
